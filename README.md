@@ -1,6 +1,8 @@
 # Determinants of Adequate Antenatal Care Attendance in Nigeria
 **A Survey-Weighted Analysis Using DHS 2018 Data**
 
+DOI: 10.64898/2026.05.02.26352203
+
 ![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![DHS Status](https://img.shields.io/badge/Data-DHS%202018-blue)
@@ -523,6 +525,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## Citation
+
+DOI: 10.64898/2026.05.02.26352203
 
 If you use this analysis in your work, please cite as:
 
